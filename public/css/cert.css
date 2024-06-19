@@ -1,0 +1,125 @@
+html, body{
+    height: 100%;
+    background-color: #f9f9f9;
+}
+
+main {
+    margin-left: 17%;
+    margin-right: 17%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#1c4f79, 70%, rgb(125, 108, 185));
+}
+
+span img {
+    width: 800px;
+    height: 800px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #1c4f79;
+    max-width:100%;
+    height:auto;
+}
+
+header .container-fluid img{
+    width: 50px;
+    height: 50px;
+}
+
+header .nav-item a{
+    margin: 0 40px;
+}
+
+.filling .card1 {
+    margin-left: 17%;
+    margin-top: 5%;
+    border: solid;
+    border-color: #1c4f79;
+    border-radius: 10px;
+    height: 400px;
+    background: linear-gradient(#1c4f79, 70%, rgb(125, 108, 185));
+}
+
+.filling .card1:hover {
+    background: linear-gradient(#4791cf, 70%, rgb(226, 129, 190));;
+    border-width: 0.5rem;
+    border-color: #5bacee;
+    border-radius: 10px;
+}
+
+.filling .card2 {
+    margin-left: 39.3%;
+    margin-top: -26.5%;
+    border: solid;
+    border-width: 0.5rem;
+    border-color: #679fcd;
+    border-radius: 10px;
+    height: 410px;
+    background: linear-gradient(#1c4f79, 70%, rgb(125, 108, 185));
+}
+
+.filling .card2:hover {
+    background: linear-gradient(#4791cf, 70%, rgb(226, 129, 190));;
+    border-width: 1rem;
+    border-color: #5bacee;
+    border-radius: 10px;
+}
+
+.filling .card3 {
+    margin-left: 61.5%;
+    margin-top: -27%;
+    border: solid;
+    border-color: #1c4f79;
+    border-radius: 10px;
+    height: 410px;
+    background: linear-gradient(#1c4f79, 70%, rgb(125, 108, 185));
+}
+
+.filling .card3:hover {
+    background: linear-gradient(#4791cf, 70%, rgb(226, 129, 190));;
+    border-width: 0.5rem;
+    border-color: #5bacee;
+    border-radius: 10px;
+}
+
+.filling .card-title {
+    margin-top: 2%;
+}
+
+.filling p {
+    margin-left: -60%;
+}
+
+.filling {
+    text-align: center;
+    color: #f9f9f9;
+}
+
+.filling li{
+    text-align: left;
+}
+
+.filling a{
+    margin-bottom: -30%;
+}
+
+footer {
+    background-color: #1c4f79;
+    margin-top: 200px;
+}
+
+footer .logof img {
+    margin-left: 17%;
+    border: solid;
+    border-radius: 15%;
+    border-color: #7f74b3;
+    width: 120px;
+}
+
+footer p {
+    color: beige;
+}

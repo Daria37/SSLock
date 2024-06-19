@@ -1,0 +1,131 @@
+html, body{
+    height: 100%;
+    background-color: #f9f9f9;
+}
+
+main {
+    margin-left: 17%;
+    margin-right: 17%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#1c4f79, 70%, rgb(125, 108, 185));
+}
+
+span img {
+    width: 800px;
+    height: 800px;
+    border: solid;
+    border-radius: 20px;
+    border-color: #1c4f79;
+    max-width:100%;
+    height:auto;
+}
+
+header .container-fluid img{
+    width: 50px;
+    height: 50px;
+}
+
+header .nav-item a{
+    margin: 0 40px;
+}
+
+.filling .maintext1 h2 {
+    margin-top: 5%;
+    margin-left: 17%;
+    margin-right: 65%;
+    padding: 2px;
+    background: #5e61a8;
+    color: white;
+}
+
+.filling .maintext h3 {
+    margin-top: -1%;
+    margin-left: 17%;
+    margin-right: 70%;
+    padding: 2px;
+    background: #6a6ca7;
+    color: white;
+}
+
+.filling .card1 {
+    margin-top: -25%;
+    margin-left: 41%;
+    border: solid;
+    border-radius: 10px;
+    border-color: #1c4f79;
+    box-shadow: 1px 1px 15px 5px #1c4f79;
+}
+
+.filling .card2 {
+    margin-top: -19.7%;
+    margin-left: 56%;
+    border: solid;
+    border-radius: 10px;
+    border-color: #1c4f79;
+    box-shadow: 1px 1px 15px 5px #1c4f79;
+}
+
+.filling .card3 {
+    margin-top: -19.7%;
+    margin-left: 71%;
+    border: solid;
+    border-radius: 10px;
+    border-color: #1c4f79;
+    box-shadow: 1px 1px 20px 5px #1c4f79;
+}
+
+.filling .cards h2 {
+    margin-left: 8%;
+}
+
+.filling .cards h5 {
+    margin-left: 25%;
+    margin-top: -25%;
+}
+
+.filling .section-filling .maintext h4 {
+    margin-left: 12%;
+    margin-top: 5%;
+}
+
+.filling2 .text h2 {
+    margin-top: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filling2 h3 {
+    margin-top: 2%;
+}
+
+.filling2 .card1 {
+    margin-left: 17%;
+    margin-right: 67%;
+    margin-top: 5%;
+}
+
+.filling2 p{
+    font-size: 120%;
+}
+
+footer {
+    background-color: #1c4f79;
+}
+
+footer .logof img {
+    margin-left: 17%;
+    border: solid;
+    border-radius: 15%;
+    border-color: #7f74b3;
+    width: 120px;
+}
+
+footer p {
+    color: beige;
+}
